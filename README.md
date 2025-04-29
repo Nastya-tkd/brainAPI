@@ -46,3 +46,4 @@ SECRET_KEY=your-secret-key
 bash
 uvicorn app.main:app --reload
 Сервер будет доступен по адресу: http://127.0.0.1:8000"# brainAPI" 
+"# Brain_glioma_API" 
